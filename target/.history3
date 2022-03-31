@@ -1,0 +1,2 @@
+1648726230128:testOnly TopTest -- -DwriteVcd=1
+1648726298104:testOnly Datapath.TopTest -- -DwriteVcd=1

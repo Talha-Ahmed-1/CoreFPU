@@ -1,0 +1,1 @@
+["Datapath.TypeDecodeTest","Datapath.JalrTest","Datapath.InstructionMemoryTest","Datapath.ImmGenTest","Datapath.ControlTest","Datapath.BranchControlTest","Datapath.ControlDecodeTest","Datapath.AluControlTest","Datapath.PCTest","Datapath.RegFileTest","Datapath.AluTest","Datapath.TopTest","Datapath.DataMemTest"]
